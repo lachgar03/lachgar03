@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Lachgar 👋
+# Hi, I'm Mohamed Lachgar 
 
 Software Engineering Graduate based in Casablanca, Morocco.
 Seeking a junior Java / Spring Boot or full-stack developer role.
